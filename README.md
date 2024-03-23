@@ -1,4 +1,4 @@
-![](https://github.com/Lin-Brain-Lab/TMS-EEG-fMRI/blob/master/images/tms_robot_setup_annot.png.png)
+![](https://github.com/Lin-Brain-Lab/TMS-EEG-fMRI/blob/main/images/tms_robot_setup_annot.png)
 
 Procedures of TMS-EEG-MRI 
 
